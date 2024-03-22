@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🐙 About Me:
 ¡Bienvenido a mi portafolio web! Soy un apasionado desarrollador front-end que está constantemente explorando y expandiendo sus conocimientos en el fascinante mundo de la programación web. A través de mi aprendizaje autodidacta, he adquirido habilidades sólidas en HTML, CSS y JavaScript, las herramientas esenciales para dar vida a sitios web y aplicaciones interactivas.
 
 
